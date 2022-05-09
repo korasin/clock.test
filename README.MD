@@ -28,5 +28,4 @@ Reach out now, here and ready to help.
 ## contact me :0768699568
 ### License
 {MIT LICENSE}./LICENSE*
-Copyright (c) {2022} **https://github.com/korasin/clock.git**
-
+Copyright (c) {2022} **https://github.com/korasin/clock.test.git**
